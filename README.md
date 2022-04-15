@@ -2,7 +2,7 @@
 The following should take approximately 2 hours. If you find that you are not going to complete all the requirements in that time, note where and how you would have addressed them in the code. You will also have an opportunity to discuss these points.
 The template code to get you started is located at https://github.com/clark-marketplace/Coding-Challenge
 
-#### PLEASE NOTE: You may need to install .NET Core 2.1 sdk if you don’t already have it – you may also need to use VS 2015 or higher (free versions are available for both).
+#### PLEASE NOTE: You may need to install .NET Core 3.1 sdk if you don’t already have it – you may also need to use VS 2017 or higher (free versions are available for both).
 Please download this code, complete the exercise, and then upload to your own repository.
 
 **The Problem**: Design a web based mailing list application. The following requirements are relatively simple, but the application should be designed so that it could be used as the basis for a more complete implementation. In other words, use sound design patterns and coding practices.

@@ -1,4 +1,7 @@
-# Coding-Challenge
+# Coding-Challenge (Jake version)
+
+**A few TODOs in there. Felt like you wanted entitiy framework based on the requirements, but I went a little different direction to get it out the door. Hope that's not an issue.
+
 The following should take approximately 2 hours. If you find that you are not going to complete all the requirements in that time, note where and how you would have addressed them in the code. You will also have an opportunity to discuss these points.
 The template code to get you started is located at https://github.com/clark-marketplace/Coding-Challenge
 
